@@ -12,9 +12,12 @@ Requirments to run:
   
   - "cookies" may also need to be initialized to work with AWS lambda
   
-Program could run for theoretically any substack blog
+Program could run for theoretically any substack blog.
 
-
+TODO:
+  - fix bugs with the string parsing
+  - allow the bot to tweet images as well
+  
 Similar project:
 
 https://medium.com/@mahibhosain98/creating-a-lyrics-bot-on-twitter-with-python3-and-aws-lambda-1e22743dc3b7

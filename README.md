@@ -1,6 +1,6 @@
 # angel-bot
 
-Twitter bot (https://twitter.com/angel01bot) that web scrapes all the public posts of a blog on Substack (angelicism01 in this case), parses a random string, then tweets it using AWS Lambda.
+Twitter bot (https://twitter.com/angel01bot) that web scrapes all the public posts of a blog on Substack (angelicism01 in this case), parses a random string, then tweets it using AWS Lambda. (Killed after twitter API changes)
 
 Requirments to run:
   
